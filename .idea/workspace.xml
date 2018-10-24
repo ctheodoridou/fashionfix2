@@ -2,103 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cb51318-f75b-4ba0-913d-0341f5dbbf55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/purejs/config.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/js/Autolinker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/pix/image-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/pix/image-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/pix/image-11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/pix/image-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/pix/image-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/pix/image-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/pix/image-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/pix/image-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/pix/image-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/pix/image-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/pix/image-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/pix/slide-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/pix/slide-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/pix/slide-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/pix/slide-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/pix/slide-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_button-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_card.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_carousel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_close.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_custom.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_images.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_media.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_print.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_reboot.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_root.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_transitions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_type.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_utilities.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/bootstrap-grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/bootstrap-reboot.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/bootstrap.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/ie.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_alert.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_background-variant.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_badge.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_border-radius.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_box-shadow.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_breakpoints.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_caret.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_float.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_gradients.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_grid-framework.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_hover.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_image.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_lists.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_nav-divider.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_reset-text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_resize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_size.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_table-row.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_text-emphasis.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_text-hide.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_text-truncate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_transition.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/mixins/_visibility.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/screen.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/utilities/_align.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/utilities/_background.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/utilities/_borders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/utilities/_clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/utilities/_display.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/utilities/_embed.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/utilities/_flex.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/utilities/_float.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/utilities/_position.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/utilities/_screenreaders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/utilities/_shadows.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/utilities/_sizing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/utilities/_spacing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/utilities/_text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/sass/utilities/_visibility.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/stylesheets/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/stylesheets/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/stylesheets/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/stylesheets/ie.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purejs/stylesheets/screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,10 +18,62 @@
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="json" value="1" />
+          <entry key="php" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="1" />
+          <entry key="PHP" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="5" />
+        </counts>
+      </usages-collector>
     </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -178,15 +134,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540394259234</updated>
-      <workItem from="1540394261668" duration="596000" />
+      <workItem from="1540394261668" duration="908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="596000" />
+    <option name="totallyTimeSpent" value="908000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1279" height="673" extended-state="1" />
+    <frame x="1" y="23" width="1279" height="673" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -215,5 +171,21 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
