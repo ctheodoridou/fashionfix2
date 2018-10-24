@@ -40,8 +40,8 @@ var autolinkerInstagram = new Autolinker( {
     },
     email       : true,
     phone       : false,
-    mention     : 'twitter',
-    hashtag     : 'twitter',
+    mention     : 'instagram',
+    hashtag     : 'instagram',
 
     stripPrefix : true,
     stripTrailingSlash : true,
@@ -77,7 +77,7 @@ function choosePic() {
 //sort posts by date
 function SortByDate(x,y) {
     var sortColumnName = 'item_published';
-    return ((x[sortColumnName]  == y[sortColumnName]) ? 0 : ((x[sortColumnName]> y[sortColumnName]) ? 1 : -1 ));
+    return ((y[sortColumnName] == x[sortColumnName]) ? 0 : ((y[sortColumnName] > x[sortColumnName]) ? 1 : -1 ));
 }
 
 //find the relative date
