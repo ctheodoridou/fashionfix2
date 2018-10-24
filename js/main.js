@@ -94,7 +94,7 @@ function dateDiffInDays(a, b) {
 //read api response and create posts list
 var data;
 
-fetch('http://private-cc77e-aff.apiary-mock.com/posts').then(function(response) {
+fetch('https://private-cc77e-aff.apiary-mock.com/posts').then(function(response) {
   if(response.ok) {
     response.json().then(function(json) {
       data = json;
